@@ -3,69 +3,69 @@
 Curry
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/a3/ab/f5/a3abf5a8a650e237052438ffbe232b2c.jpg"
 
-#EXTINF:10 ch-number="1" group-title="Curry" tvg-name="" tvg-id="ptv.click" tvg-logo="https://yt3.googleusercontent.com/q9F_Idvzk0eUSdH1J_GUcaRjaYZjSm8ugVcppwbGY_qwsCpN7rLJwzrhuGJ89hWlKd-JrUMF=s160-c-k-c0x00ffffff-no-rj",TV01-PTV
+#EXTINF:10  1" group-title="Curry" tvg-name="" tvg-id="ptv.click" tvg-logo="https://yt3.googleusercontent.com/q9F_Idvzk0eUSdH1J_GUcaRjaYZjSm8ugVcppwbGY_qwsCpN7rLJwzrhuGJ89hWlKd-JrUMF=s160-c-k-c0x00ffffff-no-rj",TV01-PTV
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="2" group-title="Curry" tvg-name="" tvg-id="gma.click" tvg-logo="https://yt3.googleusercontent.com/YDUstG6GNaZ7yXl5iXRUYDxZFkwZE04PJyewF0ou2K5DohIJxMrSPor56BExp3B7mFuDJhZsPbA=s160-c-k-c0x00ffffff-no-rj",TV01-GMA
+#EXTINF:10  2" group-title="Curry" tvg-name="" tvg-id="gma.click" tvg-logo="https://yt3.googleusercontent.com/YDUstG6GNaZ7yXl5iXRUYDxZFkwZE04PJyewF0ou2K5DohIJxMrSPor56BExp3B7mFuDJhZsPbA=s160-c-k-c0x00ffffff-no-rj",TV01-GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="3" group-title="Curry" tvg-name="" tvg-id="kapamilya-channel.click" tvg-logo="https://yt3.googleusercontent.com/KhnbbGtCE3AXUUdON2H8Z_BM40rcm0XK3-3YpdZ_45AcAe5N8Bhl7c1D_oOgFqlGHlb3ArVI=s160-c-k-c0x00ffffff-no-rj",TV01-ALLTV2
+#EXTINF:10  3" group-title="Curry" tvg-name="" tvg-id="kapamilya-channel.click" tvg-logo="https://yt3.googleusercontent.com/KhnbbGtCE3AXUUdON2H8Z_BM40rcm0XK3-3YpdZ_45AcAe5N8Bhl7c1D_oOgFqlGHlb3ArVI=s160-c-k-c0x00ffffff-no-rj",TV01-ALLTV2
 http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="4" group-title="Curry" tvg-name="" tvg-id="ibc-tv-13.click" tvg-logo="https://yt3.googleusercontent.com/ZnNSsRChI2sP4KNStlNwgxZ9f9YwQJsRVGco_GORbEDI_09rHSfkchkRr5zjC8PJbStEwSqXbQ=s160-c-k-c0x00ffffff-no-rj",TV01-iBC HD
+#EXTINF:10  4" group-title="Curry" tvg-name="" tvg-id="ibc-tv-13.click" tvg-logo="https://yt3.googleusercontent.com/ZnNSsRChI2sP4KNStlNwgxZ9f9YwQJsRVGco_GORbEDI_09rHSfkchkRr5zjC8PJbStEwSqXbQ=s160-c-k-c0x00ffffff-no-rj",TV01-iBC HD
 http://136.239.173.2:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo0mldwqx%2BTfpKT3KIgGit9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1807267584414&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKD5DMZZEYVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="5" group-title="Curry" tvg-name="" tvg-id="tv5.click" tvg-logo="https://yt3.googleusercontent.com/P0iMOjoj0J8K00abV7lDXlFMQN5oWdsvJSjGLmaYyKg0iswNEKrHVgrRgtczfspRAwScba4IbQ=s160-c-k-c0x00ffffff-no-rj",TV01-TV5
+#EXTINF:10  5" group-title="Curry" tvg-name="" tvg-id="tv5.click" tvg-logo="https://yt3.googleusercontent.com/P0iMOjoj0J8K00abV7lDXlFMQN5oWdsvJSjGLmaYyKg0iswNEKrHVgrRgtczfspRAwScba4IbQ=s160-c-k-c0x00ffffff-no-rj",TV01-TV5
 http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="6" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ETS9Wuhg-CyHyZCPicgcUH2RGq3EL02Z1uIPmi4OnWCJaP-hRYmwnDQoZ75eXLG29x3ttLJ9=s160-c-k-c0x00ffffff-no-rj",TV01-RPTV SD
+#EXTINF:10  6" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ETS9Wuhg-CyHyZCPicgcUH2RGq3EL02Z1uIPmi4OnWCJaP-hRYmwnDQoZ75eXLG29x3ttLJ9=s160-c-k-c0x00ffffff-no-rj",TV01-RPTV SD
 http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="7" group-title="Curry" tvg-name="" tvg-id="A2Z.ph" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLeQ06yImFbJI0oNRt-Cm1sUZw3Cep5KBFsOt6zKyO7w=s160-c-k-c0x00ffffff-no-rj",TV01-A2Z
+#EXTINF:10  7" group-title="Curry" tvg-name="" tvg-id="A2Z.ph" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLeQ06yImFbJI0oNRt-Cm1sUZw3Cep5KBFsOt6zKyO7w=s160-c-k-c0x00ffffff-no-rj",TV01-A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="8" group-title="Curry" tvg-name="" tvg-id="solar-flix.click" tvg-logo="https://yt3.googleusercontent.com/jwRdnA_HDN7LnTlY6h7Ni7h4tJEL6-zwkVfjfsRShXUoZvHH3DjHno7-5A5XPQlzhiqyt6DzKA=s160-c-k-c0x00ffffff-no-rj",TV01-SolarFlix
+#EXTINF:10  8" group-title="Curry" tvg-name="" tvg-id="solar-flix.click" tvg-logo="https://yt3.googleusercontent.com/jwRdnA_HDN7LnTlY6h7Ni7h4tJEL6-zwkVfjfsRShXUoZvHH3DjHno7-5A5XPQlzhiqyt6DzKA=s160-c-k-c0x00ffffff-no-rj",TV01-SolarFlix
 http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="9" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Sjb5tB7wG7Oa_F2FyhcOIE_HNF84Z4pGr5zBA7QuA6uUQ0vtZ1Jo5T4yna76S4fvkcKmyo26_Q=s160-c-k-c0x00ffffff-no-rj",TV01-SolarSports
+#EXTINF:10  9" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Sjb5tB7wG7Oa_F2FyhcOIE_HNF84Z4pGr5zBA7QuA6uUQ0vtZ1Jo5T4yna76S4fvkcKmyo26_Q=s160-c-k-c0x00ffffff-no-rj",TV01-SolarSports
 http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="10" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/aggbO6nL9vvgj28s7codGVTR9cdoUEh4MDib2DIYP_41GwdYiFNUrZT2j50vDY1SqY1TfF_a=s160-c-k-c0x00ffffff-no-rj",TV01-Aliw Channel
+#EXTINF:10  10" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/aggbO6nL9vvgj28s7codGVTR9cdoUEh4MDib2DIYP_41GwdYiFNUrZT2j50vDY1SqY1TfF_a=s160-c-k-c0x00ffffff-no-rj",TV01-Aliw Channel
 http://136.239.173.3:6610/001/2/ch00000090990000001109/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp%2BWYKp0pXQLOnfpLMLHi2tytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001234&contentid=ch00000000000000001234&videoid=ch00000090990000001109&recommendtype=0&userid=1657667082928&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JK9HJ5J3VGXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="11" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/5Qtjl__iLXtZ1z9UWZgpQCv_G80lF6CIh2jLoAcHO6igYYVcWHQvLUntjPL9rRqe3yFL4eeBzA=s160-c-k-c0x00ffffff-no-rj",TV01-DZRH
+#EXTINF:10  11" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/5Qtjl__iLXtZ1z9UWZgpQCv_G80lF6CIh2jLoAcHO6igYYVcWHQvLUntjPL9rRqe3yFL4eeBzA=s160-c-k-c0x00ffffff-no-rj",TV01-DZRH
 http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="12" group-title="Curry" tvg-name="" tvg-id="gtv.click" tvg-logo="https://i.pinimg.com/736x/b3/6c/a4/b36ca46c80a7e30130cb766036993c1f.jpg",TV01-Gtv
+#EXTINF:10  12" group-title="Curry" tvg-name="" tvg-id="gtv.click" tvg-logo="https://i.pinimg.com/736x/b3/6c/a4/b36ca46c80a7e30130cb766036993c1f.jpg",TV01-Gtv
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="13" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/gcDmNgkBjqEY5ImnYKDyJqDw_OH8jJagrBvII0PzdsOA0_mruYkFiF6SzLK7uzlWgeSpCXylMA=s160-c-k-c0x00ffffff-no-rj",TV01-NET25
+#EXTINF:10  13" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/gcDmNgkBjqEY5ImnYKDyJqDw_OH8jJagrBvII0PzdsOA0_mruYkFiF6SzLK7uzlWgeSpCXylMA=s160-c-k-c0x00ffffff-no-rj",TV01-NET25
 http://136.239.173.26:6610/001/2/ch00000090990000001090/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpBCCDeDIJn9rDuWx8BszuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001217&contentid=ch00000000000000001217&videoid=ch00000090990000001090&recommendtype=0&userid=1645621004526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5X13LGN2GQBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="14" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/23/48/68/234868d4b9736ad244f0e279deb78112.jpg",TV01-RJ DigiTV
+#EXTINF:10  14" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/23/48/68/234868d4b9736ad244f0e279deb78112.jpg",TV01-RJ DigiTV
 http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="15" group-title="Curry" tvg-name="" tvg-id="DZMM.dzmm" tvg-logo="https://i.pinimg.com/736x/40/c4/74/40c47486c388d86d157a8d8c2de435b5.jpg",TV01-DZMM Teleradyo
+#EXTINF:10  15" group-title="Curry" tvg-name="" tvg-id="DZMM.dzmm" tvg-logo="https://i.pinimg.com/736x/40/c4/74/40c47486c388d86d157a8d8c2de435b5.jpg",TV01-DZMM Teleradyo
 http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="16" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/6mT3BaRUYeDelg6HbY3qUOjJqyzrKIEUX8xll89g2HDWFg7IpT_AicIWdkwnQTnF5zuZjFN7sA=s160-c-k-c0x00ffffff-no-rj",TV01-LIGHTtv
+#EXTINF:10  16" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/6mT3BaRUYeDelg6HbY3qUOjJqyzrKIEUX8xll89g2HDWFg7IpT_AicIWdkwnQTnF5zuZjFN7sA=s160-c-k-c0x00ffffff-no-rj",TV01-LIGHTtv
 http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqkZ6SnNx3gh97OtxQ2ygibytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1847927235474&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FR3HWWBCXEEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="17" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/3f/d5/ea/3fd5ead824b9d89b7b23a059f7485151.jpg",TV01-Central Luzon Television incorporated
+#EXTINF:10  17" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/3f/d5/ea/3fd5ead824b9d89b7b23a059f7485151.jpg",TV01-Central Luzon Television incorporated
 http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="18" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/d-2Zn_yyww0OAy-xSfvIoWoJueTpH7lfL4G9uz6BL5SybJIcDLBuiBSBWKDzqGTbSfhtGKTAPw=s160-c-k-c0x00ffffff-no-rj",TV01-One sports
+#EXTINF:10  18" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/d-2Zn_yyww0OAy-xSfvIoWoJueTpH7lfL4G9uz6BL5SybJIcDLBuiBSBWKDzqGTbSfhtGKTAPw=s160-c-k-c0x00ffffff-no-rj",TV01-One sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesports_hd/default/index.mpd
-#EXTINF:10 ch-number="19" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/XdUviTAGcIROhoTUxa3uXl2bHEwEtYMst75DSdyhkFaqWOrtOz9AU5vFz8r-THEuonb5UfxfCw=s160-c-k-c0x00ffffff-no-rj",TV01-GNN
+#EXTINF:10  19" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/XdUviTAGcIROhoTUxa3uXl2bHEwEtYMst75DSdyhkFaqWOrtOz9AU5vFz8r-THEuonb5UfxfCw=s160-c-k-c0x00ffffff-no-rj",TV01-GNN
 http://136.158.97.2:6610/001/2/ch00000090990000001234/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp6sHVPy02nySMqUY2vMm%2BjytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001523&contentid=ch00000000000000001523&videoid=ch00000090990000001234&recommendtype=0&userid=1521078532205&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EP8Z20BUC89XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="20 group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/QsV62xECe58iGd1zE30j5gBOIL8WIlIiXbbNwiIWfxxuW4trXx17KszewWvVF69nHEIFm30X=s160-c-k-c0x00ffffff-no-rj",TV01-INCTV
+#EXTINF:10  20 group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/QsV62xECe58iGd1zE30j5gBOIL8WIlIiXbbNwiIWfxxuW4trXx17KszewWvVF69nHEIFm30X=s160-c-k-c0x00ffffff-no-rj",TV01-INCTV
 http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="21"" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/85/b0/df/85b0df086af9fee5e3979e8719f8fbf2.jpg",TV01-RPTV HD
+#EXTINF:10  21"" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/85/b0/df/85b0df086af9fee5e3979e8719f8fbf2.jpg",TV01-RPTV HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
 https://ucdn.mediaquest.com.ph/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
-#EXTINF:10 ch-number="22" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/55/a8/d0/55a8d0f4b6dfef7fc9b91380f0ed84a1.jpg",TV01-UNTV
+#EXTINF:10  22" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/55/a8/d0/55a8d0f4b6dfef7fc9b91380f0ed84a1.jpg",TV01-UNTV
 http://136.239.173.10:6610/001/2/ch00000090990000001091/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8EKxpteUJNLDuI18c3YYNytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001177&contentid=ch00000000000000001177&videoid=ch00000090990000001091&recommendtype=0&userid=1785051491883&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7BZSNFMO8LPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="23" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Y02f0xoWPJqyZZ5C_tTQ2ybIEETeYQmNIigXtaOvRKNkTG8sgZ-ynGBtno752hMY5_iDUw2GhBY=s160-c-k-c0x00ffffff-no-rj",TV01-Rock of Manila channel
+#EXTINF:10  23" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Y02f0xoWPJqyZZ5C_tTQ2ybIEETeYQmNIigXtaOvRKNkTG8sgZ-ynGBtno752hMY5_iDUw2GhBY=s160-c-k-c0x00ffffff-no-rj",TV01-Rock of Manila channel
 http://136.158.97.2:6610/001/2/ch00000090990000001177/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq3IoTFSryS9b7zI0P4QXhKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001414&contentid=ch00000000000000001414&videoid=ch00000090990000001177&recommendtype=0&userid=1440892826941&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AGE6A6KKG8LXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="24" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/70/8a/91/708a9188bf251d9189ca1a7377839491.jpg",TV01-TV Maria
+#EXTINF:10  24" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/70/8a/91/708a9188bf251d9189ca1a7377839491.jpg",TV01-TV Maria
 http://136.158.97.2:6610/001/2/ch00000090990000001160/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqJiJmfV%2B93mjmGGmqynSohytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001374&contentid=ch00000000000000001374&videoid=ch00000090990000001160&recommendtype=0&userid=1605694488407&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G669IAJA55PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="25" group-title="Curry" tvg-name="" tvg-id="knowledge_channel.cignal" tvg-logo="https://yt3.googleusercontent.com/27N46RQrz-JriBWrXmxJv--Ak9oZEfMhZnjlAWBmc5gSx13XIkTTRyy1pFdjLvkDZ2NlyLVxCQ=s160-c-k-c0x00ffffff-no-rj",TV01-Knowledge channel
+#EXTINF:10  25" group-title="Curry" tvg-name="" tvg-id="knowledge_channel.cignal" tvg-logo="https://yt3.googleusercontent.com/27N46RQrz-JriBWrXmxJv--Ak9oZEfMhZnjlAWBmc5gSx13XIkTTRyy1pFdjLvkDZ2NlyLVxCQ=s160-c-k-c0x00ffffff-no-rj",TV01-Knowledge channel
 http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpqUIe1xo9fgdQj%2FdedKSTyytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001832&contentid=ch00000000000000001832&videoid=ch00000090990000001340&recommendtype=0&userid=1586131651828&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1RR87QJ6AY2XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="26" group-title="Curry" tvg-name="" tvg-id="kapamilya-channel.click" tvg-logo="https://i.pinimg.com/736x/f6/52/cc/f652ccc020618df794c8eaba16958fca.jpg",TV01-Kapamilya channel
+#EXTINF:10  26" group-title="Curry" tvg-name="" tvg-id="kapamilya-channel.click" tvg-logo="https://i.pinimg.com/736x/f6/52/cc/f652ccc020618df794c8eaba16958fca.jpg",TV01-Kapamilya channel
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="27" group-title="Curry" tvg-name="" tvg-id="bilyonaryoch.cignal" tvg-logo="https://yt3.googleusercontent.com/E7F7uZwEdKn_hdJSoOSsoPAQVvuILUQ0-37kS8MOVlH53wWYqg-FtQC2JwRRMawSvgPNcIzggA=s160-c-k-c0x00ffffff-no-rj",TV01-Bilyonaryo
+#EXTINF:10  27" group-title="Curry" tvg-name="" tvg-id="bilyonaryoch.cignal" tvg-logo="https://yt3.googleusercontent.com/E7F7uZwEdKn_hdJSoOSsoPAQVvuILUQ0-37kS8MOVlH53wWYqg-FtQC2JwRRMawSvgPNcIzggA=s160-c-k-c0x00ffffff-no-rj",TV01-Bilyonaryo
 http://136.239.158.18:6610/001/2/ch00000090990000001124/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo6qHRSRmwulpOoxC1iF%2BpSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001278&contentid=ch00000000000000001278&videoid=ch00000090990000001124&recommendtype=0&userid=1747224050385&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I3AR71L33CXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="28" group-title="Curry" tvg-name="" tvg-id="CINEMO!.ph" tvg-logo="https://yt3.googleusercontent.com/-jYQJmZsbVkLToAbYK_0lCLVY1oeM5St5ZXL8_5Xekka6t9tDRPR9JbsM0e9MvaeItihuEuD1Jk=s160-c-k-c0x00ffffff-no-rj",TV01-Cinemo
+#EXTINF:10  28" group-title="Curry" tvg-name="" tvg-id="CINEMO!.ph" tvg-logo="https://yt3.googleusercontent.com/-jYQJmZsbVkLToAbYK_0lCLVY1oeM5St5ZXL8_5Xekka6t9tDRPR9JbsM0e9MvaeItihuEuD1Jk=s160-c-k-c0x00ffffff-no-rj",TV01-Cinemo
 http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:10 ch-number="29" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/c9/2b/58/c92b58cbe942ef21b33651d2d960895a.jpg",TV01-Cartoon channel Philippines
+#EXTINF:10  29" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/c9/2b/58/c92b58cbe942ef21b33651d2d960895a.jpg",TV01-Cartoon channel Philippines
 https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/chunks.m3u8
-#EXTINF:10 ch-number="30" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/04/69/f9/0469f934594c3b0111cfa128b6f2247f.jpg",TV01-One PH
+#EXTINF:10  30" group-title="Curry" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/04/69/f9/0469f934594c3b0111cfa128b6f2247f.jpg",TV01-One PH
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266
 https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
@@ -73,77 +73,77 @@ https://ucdn.mediaquest.com.ph/bpk-tv/oneph_sd/default/index.mpd
 Amogus
 #EXTINF:-2 group-logo="https://i.pinimg.com/736x/78/9a/fa/789afab38558427e2b41f479f46e695b.jpg"
 
-#EXTINF:20 ch-number="31" group-title="Amogus" tvg-name="" tvg-id="ANC.ph" tvg-logo="",TV02-ANC
+#EXTINF:20  31" group-title="Amogus" tvg-name="" tvg-id="ANC.ph" tvg-logo="",TV02-ANC
 http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001436&contentid=ch00000000000000001436&videoid=ch00000090990000001216&recommendtype=0&userid=1365005241451&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4U9VQT70SCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:20 ch-number="32" group-title="Amogus" tvg-name="" tvg-id="cg_cnnhd.cignal" tvg-logo="https://yt3.googleusercontent.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s160-c-k-c0x00ffffff-no-rj",TV02-CNN International
+#EXTINF:20  32" group-title="Amogus" tvg-name="" tvg-id="cg_cnnhd.cignal" tvg-logo="https://yt3.googleusercontent.com/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s160-c-k-c0x00ffffff-no-rj",TV02-CNN International
 http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:20 ch-number="33" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02
+#EXTINF:20  33" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="",TV02
 1106dtv http://136.239.173.3:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhARVluhpunJiYdQ%2BUDM8fsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1659725106067&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WL3Z4DGO41EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155237142593&ispcode=55
-#EXTINF:20 ch-number="34" group-title="Amogus" tvg-name="" tvg-id="Al.Jazeera.English.HD.my" tvg-logo="",TV02-Al Jazeera
+#EXTINF:20  34" group-title="Amogus" tvg-name="" tvg-id="Al.Jazeera.English.HD.my" tvg-logo="",TV02-Al Jazeera
 http://136.158.97.2:6610/001/2/ch00000090990000001343/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApIEgcDfK9VMvZFzWy7ZaCt2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001826&contentid=ch00000000000000001826&videoid=ch00000090990000001343&recommendtype=0&userid=1348066725359&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5XCX4OM7YT7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453320260101155241049001&ispcode=55
-#EXTINF:20 ch-number="35" group-title="Amogus" tvg-name="" tvg-id="onenews_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kEQIYdQz-bkbTz0jrsZWSE4CPjrnWQ6mI7PX5JgqGlHM0=s160-c-k-c0x00ffffff-no-rj",TV02-One news
+#EXTINF:20  35" group-title="Amogus" tvg-name="" tvg-id="onenews_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kEQIYdQz-bkbTz0jrsZWSE4CPjrnWQ6mI7PX5JgqGlHM0=s160-c-k-c0x00ffffff-no-rj",TV02-One news
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd
 https://ucdn.mediaquest.com.ph/bpk-tv/onenews_hd1/default/index.mpd
-#EXTINF:20 ch-number="36" group-title="Amogus" tvg-name="" tvg-id="France24.my" tvg-logo="",TV02-France 24
+#EXTINF:20  36" group-title="Amogus" tvg-name="" tvg-id="France24.my" tvg-logo="",TV02-France 24
 http://136.239.158.18:6610/001/2/ch00000090990000001157/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr79DvzaC5n7CqXniN8aprYsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001337&contentid=ch00000000000000001337&videoid=ch00000090990000001157&recommendtype=0&userid=1869475038340&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4H65AUICYBXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447520260101155238866649&ispcode=55
-#EXTINF:20 ch-number="37" group-title="Amogus" tvg-name="" tvg-id="dr_cctv4.cignal" tvg-logo="https://yt3.googleusercontent.com/NWzBVQUL43t_JX992ePg1gB8csUZKvO5CSV1oLgFBgUDSkI6tfWqHnVEq21GPBKi9vx20cTW=s160-c-k-c0x00ffffff-no-rj",TV02-CCTV4
+#EXTINF:20  37" group-title="Amogus" tvg-name="" tvg-id="dr_cctv4.cignal" tvg-logo="https://yt3.googleusercontent.com/NWzBVQUL43t_JX992ePg1gB8csUZKvO5CSV1oLgFBgUDSkI6tfWqHnVEq21GPBKi9vx20cTW=s160-c-k-c0x00ffffff-no-rj",TV02-CCTV4
 http://136.158.97.2:6610/001/2/ch00000090990000001223/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArXm%2BLs%2BN7C0jX0KTEhSJl3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001483&contentid=ch00000000000000001483&videoid=ch00000090990000001223&recommendtype=0&userid=1703612119129&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LGO7QMYP53CXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155240346433&ispcode=55
-#EXTINF:20 ch-number="38" group-title="Amogus" tvg-name="" tvg-id="CGTN.HD.my" tvg-logo="",TV02-CGTN
+#EXTINF:20  38" group-title="Amogus" tvg-name="" tvg-id="CGTN.HD.my" tvg-logo="",TV02-CGTN
 http://161.49.17.2:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq0bLdlQQxjquEy7BUYBE%2BOsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1425279458636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=S46OQZ6HHOXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155238142604&ispcode=55
-#EXTINF:20 ch-number="39" group-title="Amogus" tvg-name="" tvg-id="Bloomberg.TV.HD.my" tvg-logo="",TV02-Bloomberg
+#EXTINF:20  39" group-title="Amogus" tvg-name="" tvg-id="Bloomberg.TV.HD.my" tvg-logo="",TV02-Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
-#EXTINF:20 ch-number="40" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/6eSZ8NcANjURME_oeFuVOYAHgc8AyQryIjgfWv_PkIFykuusKXYPmriOyXer1xuAb8kLTePQ=s160-c-k-c0x00ffffff-no-rj",TV02-Abante Teletabloid
+#EXTINF:20  40" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/6eSZ8NcANjURME_oeFuVOYAHgc8AyQryIjgfWv_PkIFykuusKXYPmriOyXer1xuAb8kLTePQ=s160-c-k-c0x00ffffff-no-rj",TV02-Abante Teletabloid
 https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
-#EXTINF:20 ch-number="41" group-title="Amogus" tvg-name="" tvg-id="NHK.World.Premium.my" tvg-logo="",TV02-NHK World Japan
+#EXTINF:20  41" group-title="Amogus" tvg-name="" tvg-id="NHK.World.Premium.my" tvg-logo="",TV02-NHK World Japan
 http://161.49.17.2:6610/001/2/ch00000090990000001145/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqZTKpeZkGzV2we2%2BZ6q6g3syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001315&contentid=ch00000000000000001315&videoid=ch00000090990000001145&recommendtype=0&userid=1404568285744&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MIA1EKCJ1UFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447720260101155238222344&ispcode=55
-#EXTINF:20 ch-number="42" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k93omExAaF5dkNB2ak143N91a2pxnTwsufS7uRkiF1HyY=s160-c-k-c0x00ffffff-no-rj",TV02-Al Saudiya
+#EXTINF:20  42" group-title="Amogus" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k93omExAaF5dkNB2ak143N91a2pxnTwsufS7uRkiF1HyY=s160-c-k-c0x00ffffff-no-rj",TV02-Al Saudiya
 http://136.239.159.20:6610/001/2/ch00000090990000001176/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx%2BXO6kYP1duDF0CR%2BT7zbsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001413&contentid=ch00000000000000001413&videoid=ch00000090990000001176&recommendtype=0&userid=1163214779459&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z7HHHB7UI99XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451220260101155239052564&ispcode=55
-#EXTINF:20 ch-number="43" group-title="Amogus" tvg-name="" tvg-id="DEUTSCHEWELLE.ph" tvg-logo="",TV02-Deutsche Welle
+#EXTINF:20  43" group-title="Amogus" tvg-name="" tvg-id="DEUTSCHEWELLE.ph" tvg-logo="",TV02-Deutsche Welle
 http://136.239.158.10:6610/001/2/ch00000090990000001166/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoTcUYwq3PMi%2FTObKiSY6bDsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001377&contentid=ch00000000000000001377&videoid=ch00000090990000001166&recommendtype=0&userid=1791156066269&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8DYR6H98V3NXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155239188177&ispcode=55
-#EXTINF:20 ch-number="44" group-title="Amogus" tvg-name="" tvg-id="truefm_tv.cignal" tvg-logo="https://i.pinimg.com/736x/05/5c/4c/055c4cc8d9720786edfe1de9d813013f.jpg",TV02-TrueTV
+#EXTINF:20  44" group-title="Amogus" tvg-name="" tvg-id="truefm_tv.cignal" tvg-logo="https://i.pinimg.com/736x/05/5c/4c/055c4cc8d9720786edfe1de9d813013f.jpg",TV02-TrueTV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8c4e9a516d724f30b2187a3c5e9d6041:e25c167573772b510ff8e5282560a349
 https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
-#EXTINF:20 ch-number="45" group-title="Amogus" tvg-name="" tvg-id="ABC.Australia.HD.my" tvg-logo="",TV02-ABC Australia
+#EXTINF:20  45" group-title="Amogus" tvg-name="" tvg-id="ABC.Australia.HD.my" tvg-logo="",TV02-ABC Australia
 http://136.239.173.26:6610/001/2/ch00000090990000001111/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpS6W%2B6YCeAzzWlWVs9TWyRytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001273&contentid=ch00000000000000001273&videoid=ch00000090990000001111&recommendtype=0&userid=1836152308422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OIM96MPU9AXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 Salgu
 #EXTINF:-3 group-logo="https://i.pinimg.com/736x/56/1d/e9/561de9907b6368d7e06a5983bd92a8e3.jpg"
 
-#EXTINF:30 ch-number="46" group-title="Salgu" tvg-name="" tvg-id="Jeepney.TV.ph" tvg-logo="",TV03-Jeepney TV
+#EXTINF:30  46" group-title="Salgu" tvg-name="" tvg-id="Jeepney.TV.ph" tvg-logo="",TV03-Jeepney TV
 http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpGbNnk2H5Bi8k4yR%2B9AHGFytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1870820485634&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6T45HYQ6YE3XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="47" group-title="Salgu" tvg-name="" tvg-id="cg_warnerhd.cignal" tvg-logo="https://yt3.googleusercontent.com/dYJQeCClNSD6VkWbLFxzm7NBxKa81lryjF4DkADs2UxbrfjO9IzxTv0vrpWVKuYhBDA8yzYcqQ=s120-c-k-c0x00ffffff-no-rj",TV03-Warner TV
+#EXTINF:30  47" group-title="Salgu" tvg-name="" tvg-id="cg_warnerhd.cignal" tvg-logo="https://yt3.googleusercontent.com/dYJQeCClNSD6VkWbLFxzm7NBxKa81lryjF4DkADs2UxbrfjO9IzxTv0vrpWVKuYhBDA8yzYcqQ=s120-c-k-c0x00ffffff-no-rj",TV03-Warner TV
 http://136.239.158.18:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqRhIO4pq%2FZNG%2BJhjsEpHHCytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1321207134399&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0QVRZ4LBHCCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="48" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/56/66/31/566631bdbe3780433dc1021f97c049ed.jpg",TV03-Kapatid channel
+#EXTINF:30  48" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/56/66/31/566631bdbe3780433dc1021f97c049ed.jpg",TV03-Kapatid channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397
 https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
-#EXTINF:30 ch-number="49" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/3c/c4/82/3cc4829e4120b2913b6bf6f2e8385528.jpg",TV03-Tap Edge
+#EXTINF:30  49" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/3c/c4/82/3cc4829e4120b2913b6bf6f2e8385528.jpg",TV03-Tap Edge
 http://136.158.97.2:6610/001/2/ch00000090990000001150/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq%2B2uVbDOBwGF5t4YHKR5dbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001320&contentid=ch00000000000000001320&videoid=ch00000090990000001150&recommendtype=0&userid=1305735838223&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NUZJDSE8GBEXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="50" group-title="Salgu" tvg-name="" tvg-id="kix_hd1.cignal" tvg-logo="https://i.pinimg.com/736x/6e/dd/9c/6edd9cbf5f860ce2f2050a5575e5ad90.jpg",TV03-KiX
+#EXTINF:30  50" group-title="Salgu" tvg-name="" tvg-id="kix_hd1.cignal" tvg-logo="https://i.pinimg.com/736x/6e/dd/9c/6edd9cbf5f860ce2f2050a5575e5ad90.jpg",TV03-KiX
 http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqszdaNqmegxz2VkIuTd%2B31ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001583&contentid=ch00000000000000001583&videoid=ch00000090990000001263&recommendtype=0&userid=1319115127597&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=D4NMMH3RZQXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="51" group-title="Salgu" tvg-name="" tvg-id="buko.cignal" tvg-logo="https://i.pinimg.com/736x/22/62/1e/22621e2e3b941da4e7ff11ae9a37d760.jpg",TV03-BuKO
+#EXTINF:30  51" group-title="Salgu" tvg-name="" tvg-id="buko.cignal" tvg-logo="https://i.pinimg.com/736x/22/62/1e/22621e2e3b941da4e7ff11ae9a37d760.jpg",TV03-BuKO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
-#EXTINF:30 ch-number="52" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/bf/85/c0/bf85c0965a5c45e64bb83522c4c3ab35.jpg",TV03-Tap TV
+#EXTINF:30  52" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/bf/85/c0/bf85c0965a5c45e64bb83522c4c3ab35.jpg",TV03-Tap TV
 http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="53" group-title="Salgu" tvg-name="" tvg-id="AXN.ph" tvg-logo="",TV03-AXN
+#EXTINF:30  53" group-title="Salgu" tvg-name="" tvg-id="AXN.ph" tvg-logo="",TV03-AXN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_axn_sd/default/index.mpd
-#EXTINF:30 ch-number="54" group-title="Salgu" tvg-name="" tvg-id="KBS.World.(HD).sg" tvg-logo="https://i.pinimg.com/736x/12/02/53/120253fb850edc03552e852e1406c5d3.jpg",TV03-KBS world
+#EXTINF:30  54" group-title="Salgu" tvg-name="" tvg-id="KBS.World.(HD).sg" tvg-logo="https://i.pinimg.com/736x/12/02/53/120253fb850edc03552e852e1406c5d3.jpg",TV03-KBS world
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
-#EXTINF:30 ch-number="55" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-
+#EXTINF:30  55" group-title="Salgu" tvg-name="" tvg-id="" tvg-logo="",TV03-
 http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:30 ch-number="56" group-title="Salgu" tvg-name="" tvg-id="dr_lifetime.cignal" tvg-logo="https://yt3.googleusercontent.com/Ny4_u4o6_JAIwku6KXdfO6Efq9PWvahRIXQBTyL49fjMmFvt3KI9MmfwRjDReP9-tUCPgIDTRQ=s160-c-k-c0x00ffffff-no-rj",TV03-Lifetime
+#EXTINF:30  56" group-title="Salgu" tvg-name="" tvg-id="dr_lifetime.cignal" tvg-logo="https://yt3.googleusercontent.com/Ny4_u4o6_JAIwku6KXdfO6Efq9PWvahRIXQBTyL49fjMmFvt3KI9MmfwRjDReP9-tUCPgIDTRQ=s160-c-k-c0x00ffffff-no-rj",TV03-Lifetime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
@@ -151,101 +151,101 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.
 Sig
 #EXTINF:-4 group-logo="https://i.pinimg.com/736x/53/30/31/533031f2385a83c45121cee438a4c1a2.jpg"
 
-#EXTINF:40 ch-number="57" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/lMSsOh4VrmikGoDRYRflQVUjN5bT8x1GiHlo3vux6P4PcSxvrV2nIMUiRN1DSTFS8uqJgIP87Fs=s160-c-k-c0x00ffffff-no-rj",TV04-myx
+#EXTINF:40  57" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/lMSsOh4VrmikGoDRYRflQVUjN5bT8x1GiHlo3vux6P4PcSxvrV2nIMUiRN1DSTFS8uqJgIP87Fs=s160-c-k-c0x00ffffff-no-rj",TV04-myx
 http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:40 ch-number="58" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/a7/20/a1/a720a17970dec6d1268bf9496424d3ab.jpg",TV04-Hallypop
+#EXTINF:40  58" group-title="Sig" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/a7/20/a1/a720a17970dec6d1268bf9496424d3ab.jpg",TV04-Hallypop
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 Half
 #EXTINF:-50 group-logo="https://i.pinimg.com/736x/38/c2/a3/38c2a36fe79ca4d49943bcfcd32781c0.jpg"
 
-#EXTINF:5 ch-number="59" group-title="Loaf" tvg-name="" tvg-id="arirang_sd.cignal" tvg-logo="https://yt3.googleusercontent.com/dX3EGzw1yioZNWqn1YSlII61pbFcvyV3Ixe5LWYNivxoQ_84T81G9mXSvZqifPL2Fnk9LZHFEQ=s160-c-k-c0x00ffffff-no-rj",TV05-Arirang
+#EXTINF:5  59" group-title="Loaf" tvg-name="" tvg-id="arirang_sd.cignal" tvg-logo="https://yt3.googleusercontent.com/dX3EGzw1yioZNWqn1YSlII61pbFcvyV3Ixe5LWYNivxoQ_84T81G9mXSvZqifPL2Fnk9LZHFEQ=s160-c-k-c0x00ffffff-no-rj",TV05-Arirang
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:50 ch-number="60" group-title="Loaf" tvg-name="" tvg-id="dr_tv5_monde.cignal" tvg-logo="https://yt3.googleusercontent.com/XDbdehoVvjmIXJZDNJNEUDFtB-GiQSe0NETR5mZoZp5uPAC_kaOU1G16PNvJqnFfwJ-DSRvQF2g=s160-c-k-c0x00ffffff-no-rj",TV05-Monde Asie
+#EXTINF:50  60" group-title="Loaf" tvg-name="" tvg-id="dr_tv5_monde.cignal" tvg-logo="https://yt3.googleusercontent.com/XDbdehoVvjmIXJZDNJNEUDFtB-GiQSe0NETR5mZoZp5uPAC_kaOU1G16PNvJqnFfwJ-DSRvQF2g=s160-c-k-c0x00ffffff-no-rj",TV05-Monde Asie
 http://136.239.158.30:6610/001/2/ch00000090990000001156/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrZbWy4P3NKKVNXe3wACXZmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001336&contentid=ch00000000000000001336&videoid=ch00000090990000001156&recommendtype=0&userid=1384915951397&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QZOPZ9VOOVLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:50 ch-number="61" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/1c/97/70/1c9770fdde42e686d58770b7f4dc487e.jpg",TV05-tvE
+#EXTINF:50  61" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/1c/97/70/1c9770fdde42e686d58770b7f4dc487e.jpg",TV05-tvE
 http://136.158.97.2:6610/001/2/ch00000090990000001112/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0ljLQuLaqTKdgvofK6hc4ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001275&contentid=ch00000000000000001275&videoid=ch00000090990000001112&recommendtype=0&userid=1405270067404&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O5OYCFP87ZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:50 ch-number="62" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/0DVIlBXVrcph_VblCI-B0lFTXHOQ9ottOBU4I8dY57IQl600eVqiM3dTp4aaNe1Ee7RFYosd4Ls=s160-c-k-c0x00ffffff-no-rj",TV05-Phoenix
+#EXTINF:50  62" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/0DVIlBXVrcph_VblCI-B0lFTXHOQ9ottOBU4I8dY57IQl600eVqiM3dTp4aaNe1Ee7RFYosd4Ls=s160-c-k-c0x00ffffff-no-rj",TV05-Phoenix
 http://136.158.97.2:6610/001/2/ch00000090990000001113/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrJ%2FmqaM1lrBiCRhhaFxCv%2BytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001274&contentid=ch00000000000000001274&videoid=ch00000090990000001113&recommendtype=0&userid=1615200557296&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=F3CWPRYA79AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:50 ch-number="63" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/2RTg7Siqu3Utn1QNm9p6P4hAjMpd-TiMg076HdrLz1sTkWZspzsyqEq39FxFWQk8C-06lWnpDQ=s160-c-k-c0x00ffffff-no-rj",TV05-Fuji
+#EXTINF:50  63" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/2RTg7Siqu3Utn1QNm9p6P4hAjMpd-TiMg076HdrLz1sTkWZspzsyqEq39FxFWQk8C-06lWnpDQ=s160-c-k-c0x00ffffff-no-rj",TV05-Fuji
 http://136.239.158.18:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqH%2B5l99GK8Rg%2FAZvU0C4flytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1293542013193&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FHCWZ7XXFIVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:50 ch-number="64" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d6/1e/94/d61e944681cc630f98fbf97fdf32b619.jpg",TV05-NHK BS
+#EXTINF:50  64" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d6/1e/94/d61e944681cc630f98fbf97fdf32b619.jpg",TV05-NHK BS
 http://136.158.97.2:6610/001/2/ch00000090990000001214/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvraU%2BA8%2FN%2B6NCam0oBPn1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001445&contentid=ch00000000000000001445&videoid=ch00000090990000001214&recommendtype=0&userid=1516257620825&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=N8EJG3JY51DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 Loaf
 #EXTINF:-6 group-logo="https://i.pinimg.com/736x/60/7f/fd/607ffd2b717508a83f6190fd5134eaaa.jpg"
 
-#EXTINF:60 ch-number="65" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/f8/2a/e0/f82ae0037266cb99ccddd0128fc7a954.jpg",TV06-Mindanow
+#EXTINF:60  65" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/f8/2a/e0/f82ae0037266cb99ccddd0128fc7a954.jpg",TV06-Mindanow
 http://136.239.173.26:6610/001/2/ch00000090990000001123/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001237&contentid=ch00000000000000001237&videoid=ch00000090990000001123&recommendtype=0&userid=1545743380024&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7NAS0TOF95HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="66" group-title="Loaf" tvg-name="" tvg-id="HGTV.HD.my" tvg-logo="",TV06-HGTV
+#EXTINF:60  66" group-title="Loaf" tvg-name="" tvg-id="HGTV.HD.my" tvg-logo="",TV06-HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
-#EXTINF:60 ch-number="67" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/8d/00/bd/8d00bd63f01c51ceb16d810f1b51db8e.jpg",TV06-LAC HD
+#EXTINF:60  67" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/8d/00/bd/8d00bd63f01c51ceb16d810f1b51db8e.jpg",TV06-LAC HD
 http://136.239.173.26:6610/001/2/ch00000090990000001154/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001334&contentid=ch00000000000000001334&videoid=ch00000090990000001154&recommendtype=0&userid=1116046860992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=2KT43TGXV8SXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="68" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/66/78/58/66785860bb5ee28282caf488b31bbe8f.jpg",TV06-Metro channel
+#EXTINF:60  68" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/66/78/58/66785860bb5ee28282caf488b31bbe8f.jpg",TV06-Metro channel
 http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br4hyjlpFsJWrmHS5nwWoXTytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001549&contentid=ch00000000000000001549&videoid=ch00000090990000001267&recommendtype=0&userid=1142671346514&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LTCR16K4MRAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="69" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d8/0e/2d/d80e2d80fe28a6200249f3be095881f5.jpg",TV06-Animal planet
+#EXTINF:60  69" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d8/0e/2d/d80e2d80fe28a6200249f3be095881f5.jpg",TV06-Animal planet
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_animal_planet_sd/default/index.mpd
-#EXTINF:60 ch-number="70" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/2f/54/cb/2f54cb9a8eb9e9258acb6e0b4dc5dc2c.jpg",TV06-FilAm
+#EXTINF:60  70" group-title="Loaf" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/2f/54/cb/2f54cb9a8eb9e9258acb6e0b4dc5dc2c.jpg",TV06-FilAm
 http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001417&contentid=ch00000000000000001417&videoid=ch00000090990000001195&recommendtype=0&userid=1009271710165&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=95UH4551P7JXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:60 ch-number="71" group-title="Loaf" tvg-name="" tvg-id="fashiontvhd.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nGk-I3TWbRvaq1tVt9oITiwHXUoOcSd3VRqLy_ciq9pvXb=s160-c-k-c0x00ffffff-no-rj",TV06-Fashion TV
+#EXTINF:60  71" group-title="Loaf" tvg-name="" tvg-id="fashiontvhd.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nGk-I3TWbRvaq1tVt9oITiwHXUoOcSd3VRqLy_ciq9pvXb=s160-c-k-c0x00ffffff-no-rj",TV06-Fashion TV
 http://136.158.97.2:6610/001/2/ch00000090990000001102/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Box8fi0tu1Fy8zHjKfT%2BDe7ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001236&contentid=ch00000000000000001236&videoid=ch00000090990000001102&recommendtype=0&userid=1182293234058&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UV7BK6N91UNXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 Maya
 #EXTINF:-7 group-logo="https://i.pinimg.com/736x/da/6c/51/da6c51e6bb628b7aee3c9c137f59a5e2.jpg"
 
-#EXTINF:70 ch-number="72" group-title="Maya" tvg-name="" tvg-id="pbo.click" tvg-logo="https://i.pinimg.com/736x/37/53/41/3753419e3ceaa8f4fcf6e50653ce7a3b.jpg",TV07-pbo
+#EXTINF:70  72" group-title="Maya" tvg-name="" tvg-id="pbo.click" tvg-logo="https://i.pinimg.com/736x/37/53/41/3753419e3ceaa8f4fcf6e50653ce7a3b.jpg",TV07-pbo
 http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1960500443734&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8WK79ZSBXVGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447120260101155236008695&ispcode=55
-#EXTINF:70ch-number="73" group-title="Maya" tvg-name="" tvg-id="cinema-one.click" tvg-logo="https://yt3.googleusercontent.com/6d8kt2PVLo05xy8811N_K6W058RfHfVUkV4P_GE4ELS4Ii3H03NtGaDXgYfNttHr-q7-tfBlTQ=s160-c-k-c0x00ffffff-no-rj",TV07-Cinema one
+#EXTINF:70 73" group-title="Maya" tvg-name="" tvg-id="cinema-one.click" tvg-logo="https://yt3.googleusercontent.com/6d8kt2PVLo05xy8811N_K6W058RfHfVUkV4P_GE4ELS4Ii3H03NtGaDXgYfNttHr-q7-tfBlTQ=s160-c-k-c0x00ffffff-no-rj",TV07-Cinema one
 http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1481102669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7TIMXILHNX5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445520260101155240041967&ispcode=55
-#EXTINF:70 ch-number="74" group-title="Maya" tvg-name="" tvg-id="cg_hbofam.cignal" tvg-logo="https://i.pinimg.com/736x/ff/90/23/ff9023eb7147fdd810bc510072a0ada6.jpg",TV07-HBO Family
+#EXTINF:70  74" group-title="Maya" tvg-name="" tvg-id="cg_hbofam.cignal" tvg-logo="https://i.pinimg.com/736x/ff/90/23/ff9023eb7147fdd810bc510072a0ada6.jpg",TV07-HBO Family
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
-#EXTINF:70 ch-number="75" group-title="Maya" tvg-name="" tvg-id="viva-cinema.click" tvg-logo="https://i.pinimg.com/736x/96/d8/bc/96d8bc294e0af40b95459c4b88740c2a.jpg",TV07-Vivacinema
+#EXTINF:70  75" group-title="Maya" tvg-name="" tvg-id="viva-cinema.click" tvg-logo="https://i.pinimg.com/736x/96/d8/bc/96d8bc294e0af40b95459c4b88740c2a.jpg",TV07-Vivacinema
 http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155236183812&ispcode=55
-#EXTINF:70 ch-number="76" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/fa/21/82/fa2182210dfe311232397f3d457715ed.jpg",TV07-TMC
+#EXTINF:70  76" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/fa/21/82/fa2182210dfe311232397f3d457715ed.jpg",TV07-TMC
 http://136.239.173.2:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1388444659651&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VT2SEXWH4EOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445620260101155236094993&ispcode=55
-#EXTINF:70 ch-number="77" group-title="Maya" tvg-name="" tvg-id="cg_tvnpre.cignal" tvg-logo="https://yt3.googleusercontent.com/crnwfWsJig2wkNfRQyX0oDvfiWk6NOYBEG0HgP8xDs4_oKmmJWB09ioEbLlBQhJB6HIFg_qT_IM=s160-c-k-c0x00ffffff-no-rj",TV07-tvN Premium
+#EXTINF:70  77" group-title="Maya" tvg-name="" tvg-id="cg_tvnpre.cignal" tvg-logo="https://yt3.googleusercontent.com/crnwfWsJig2wkNfRQyX0oDvfiWk6NOYBEG0HgP8xDs4_oKmmJWB09ioEbLlBQhJB6HIFg_qT_IM=s160-c-k-c0x00ffffff-no-rj",TV07-tvN Premium
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnpre/default/index.mpd
-#EXTINF:70 ch-number="78" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/ef/48/8a/ef488a2e6952083c67ab939254823ffa.jpg",TV07-Celestial movies pinoy
+#EXTINF:70  78" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/ef/48/8a/ef488a2e6952083c67ab939254823ffa.jpg",TV07-Celestial movies pinoy
 http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447420260101155236077598&ispcode=55
-#EXTINF:70 ch-number="79" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/9e/94/60/9e94605cba14edfb04910989c473ea59.jpg",TV07-Celestial Classic movies
+#EXTINF:70  79" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/9e/94/60/9e94605cba14edfb04910989c473ea59.jpg",TV07-Celestial Classic movies
 http://136.158.97.2:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1488531249398&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M5E3S23XZ6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449720260101155240980674&ispcode=55
-#EXTINF:70 ch-number="80" group-title="Maya" tvg-name="" tvg-id="cg_hbohd.cignal" tvg-logo="https://yt3.googleusercontent.com/xrXPx6zj9lXDumnGmxo1BMS3NhyOjHaO3io8FXK1yqbojj3eMJpbJ-b92ODieH2hsY8KYuXs_w=s160-c-k-c0x00ffffff-no-rj",TV07-HBO
+#EXTINF:70  80" group-title="Maya" tvg-name="" tvg-id="cg_hbohd.cignal" tvg-logo="https://yt3.googleusercontent.com/xrXPx6zj9lXDumnGmxo1BMS3NhyOjHaO3io8FXK1yqbojj3eMJpbJ-b92ODieH2hsY8KYuXs_w=s160-c-k-c0x00ffffff-no-rj",TV07-HBO
 http://136.158.97.2:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAosKg8aLji3LHWqHUI%2FwQyJsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1368249806492&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NJY3IWFAY6XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448820260101155236346387&ispcode=55
-#EXTINF:70 ch-number="81" group-title="Maya" tvg-name="" tvg-id="Rock.Entertainment.id" tvg-logo="https://i.pinimg.com/736x/97/13/17/971317bf950bcb0ba5ce205de8da5cfe.jpg",TV07-Rock action
+#EXTINF:70  81" group-title="Maya" tvg-name="" tvg-id="Rock.Entertainment.id" tvg-logo="https://i.pinimg.com/736x/97/13/17/971317bf950bcb0ba5ce205de8da5cfe.jpg",TV07-Rock action
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9a4f5218c374b069e156f2d7a3c8049:72aa902f471adf15bef2710b6b689ed0
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockextreme/default/index.mpd
-#EXTINF:70 ch-number="82" group-title="Maya" tvg-name="" tvg-id="cg_tapmovies_hd1.cignal" tvg-logo="https://i.pinimg.com/736x/8f/6d/97/8f6d97e8d8a1650154b10f076c3aacbb.jpg",TV07-Tap movies
+#EXTINF:70  82" group-title="Maya" tvg-name="" tvg-id="cg_tapmovies_hd1.cignal" tvg-logo="https://i.pinimg.com/736x/8f/6d/97/8f6d97e8d8a1650154b10f076c3aacbb.jpg",TV07-Tap movies
 http://136.239.158.10:6610/001/2/ch00000090990000001304/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArqmX9tLke4aZIpUgreyOpN2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001774&contentid=ch00000000000000001774&videoid=ch00000090990000001304&recommendtype=0&userid=1535415299339&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KA8C98C3ZAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453120260101155241063274&ispcode=55
-#EXTINF:70 ch-number="83" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/99/f2/57/99f257453c74c214acf4cdf06ff2bfdb.jpg",TV07-Tap action flix
+#EXTINF:70  83" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/99/f2/57/99f257453c74c214acf4cdf06ff2bfdb.jpg",TV07-Tap action flix
 http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApahcUJJEYAxPtEef94INw12%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1992031084771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HTEZZPU574PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155241186367&ispcode=55
-#EXTINF:70 ch-number="84" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d3/73/b0/d373b01f09328d6d33c89f5705fb43ef.jpg",TV07-Lotus Macau
+#EXTINF:70  84" group-title="Maya" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d3/73/b0/d373b01f09328d6d33c89f5705fb43ef.jpg",TV07-Lotus Macau
 http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448320260101155239311439&ispcode=55
-#EXTINF:70 ch-number="85" group-title="Maya" tvg-name="" tvg-id="cg_hbohits.cignal" tvg-logo="https://i.pinimg.com/474x/40/f6/2d/40f62dba836c0706589b9e3ba8409079.jpg",TV07-HBO Hits
+#EXTINF:70  85" group-title="Maya" tvg-name="" tvg-id="cg_hbohits.cignal" tvg-logo="https://i.pinimg.com/474x/40/f6/2d/40f62dba836c0706589b9e3ba8409079.jpg",TV07-HBO Hits
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
-#EXTINF:70 ch-number="86" group-title="Maya" tvg-name="" tvg-id="cg_thrill_sd.cignal" tvg-logo="https://i.pinimg.com/736x/2f/2f/eb/2f2feb09a933a46c202b60bb3c23a50e.jpg",TV07-thrill
+#EXTINF:70  86" group-title="Maya" tvg-name="" tvg-id="cg_thrill_sd.cignal" tvg-logo="https://i.pinimg.com/736x/2f/2f/eb/2f2feb09a933a46c202b60bb3c23a50e.jpg",TV07-thrill
 http://136.239.158.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1158498506531&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EZ3GLGN6GRKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446720260101155240169312&ispcode=55
-#EXTINF:70 ch-number="87" group-title="Maya" tvg-name="" tvg-id="cg_hbosign.cignal" tvg-logo="https://i.pinimg.com/736x/9d/7b/71/9d7b71533a64c079cd3072c1b35385f2.jpg",TV07-HBO signature
+#EXTINF:70  87" group-title="Maya" tvg-name="" tvg-id="cg_hbosign.cignal" tvg-logo="https://i.pinimg.com/736x/9d/7b/71/9d7b71533a64c079cd3072c1b35385f2.jpg",TV07-HBO signature
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
-#EXTINF:70 ch-number="88" group-title="Maya" tvg-name="" tvg-id="cg_cinemax.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nFtsC8GiYKlqowfcF5fiuSuIlU__Dn-96rN9DZtZZ87Gw=s160-c-k-c0x00ffffff-no-rj",TV07-Cinemax
+#EXTINF:70  88" group-title="Maya" tvg-name="" tvg-id="cg_cinemax.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nFtsC8GiYKlqowfcF5fiuSuIlU__Dn-96rN9DZtZZ87Gw=s160-c-k-c0x00ffffff-no-rj",TV07-Cinemax
 http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoD7Jkv0l3sE1jz6821dGRWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1499683383370&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=W0IF3T6I0YAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:70 ch-number="89" group-title="Maya" tvg-name="" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.pinimg.com/736x/a2/f5/53/a2f553efc3b51b7502547890f4c8f969.jpg",TV07-tvN Movies
+#EXTINF:70  89" group-title="Maya" tvg-name="" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.pinimg.com/736x/a2/f5/53/a2f553efc3b51b7502547890f4c8f969.jpg",TV07-tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
@@ -253,37 +253,37 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_tvnmovie/default/index.mpd
 Stripe
 #EXTINF:-8 group-logo="https://i.pinimg.com/736x/1c/a5/96/1ca5961fef0e6efba4e2f3a24cc0830a.jpg"
 
-#EXTINF:80 ch-number="90" group-title="Stripe" tvg-name="" tvg-id="dr_tapsports.cignal" tvg-logo="https://i.pinimg.com/736x/8d/93/5d/8d935dd46a4d7d4bba8f063aae1e253c.jpg",TV08-Tap sports
+#EXTINF:80  90" group-title="Stripe" tvg-name="" tvg-id="dr_tapsports.cignal" tvg-logo="https://i.pinimg.com/736x/8d/93/5d/8d935dd46a4d7d4bba8f063aae1e253c.jpg",TV08-Tap sports
 http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:80ch-number="91" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nXIJhonQwIzknZnNgKK5xe5Lj-fESPcPeR32S5b17j2HI=s160-c-k-c0x00ffffff-no-rj",TV08-Edge sports
+#EXTINF:80 91" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nXIJhonQwIzknZnNgKK5xe5Lj-fESPcPeR32S5b17j2HI=s160-c-k-c0x00ffffff-no-rj",TV08-Edge sports
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:80 ch-number="92" group-title="Stripe" tvg-name="" tvg-id="cg_spotvhd.cignal" tvg-logo="https://yt3.googleusercontent.com/vBXGS5LB6-HGH1RyJArpOAoATjwE7hBXT2wsL4qTxnsnBV5XF_sbZNe2WpjMVs65p2EvyTWCCQ=s160-c-k-c0x00ffffff-no-rj",TV08-SpotV
+#EXTINF:80  92" group-title="Stripe" tvg-name="" tvg-id="cg_spotvhd.cignal" tvg-logo="https://yt3.googleusercontent.com/vBXGS5LB6-HGH1RyJArpOAoATjwE7hBXT2wsL4qTxnsnBV5XF_sbZNe2WpjMVs65p2EvyTWCCQ=s160-c-k-c0x00ffffff-no-rj",TV08-SpotV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_spotvhd/default/index.mpd
-#EXTINF:80 ch-number="93" group-title="Stripe" tvg-name="" tvg-id="cg_pbarush_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lOp85n-7rs4IJQBpuqottzI5E6lrFuxHJs2l0qm9uo=s160-c-k-c0x00ffffff-no-rj",TV08-PBA rush
+#EXTINF:80  93" group-title="Stripe" tvg-name="" tvg-id="cg_pbarush_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lOp85n-7rs4IJQBpuqottzI5E6lrFuxHJs2l0qm9uo=s160-c-k-c0x00ffffff-no-rj",TV08-PBA rush
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
-#EXTINF:80 ch-number="94" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/ef/6a/c3/ef6ac3932c2a2d57c13a3bed6b58bbb3.jpg",TV08-Premier sports
+#EXTINF:80  94" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/ef/6a/c3/ef6ac3932c2a2d57c13a3bed6b58bbb3.jpg",TV08-Premier sports
 http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:80 ch-number="95" group-title="Stripe" tvg-name="" tvg-id="dr_spotv2hd.cignal" tvg-logo="https://i.pinimg.com/736x/d8/19/cd/d819cd46a3f9f158c40ab8f00a2b7eab.jpg",TV08-SpotV2
+#EXTINF:80  95" group-title="Stripe" tvg-name="" tvg-id="dr_spotv2hd.cignal" tvg-logo="https://i.pinimg.com/736x/d8/19/cd/d819cd46a3f9f158c40ab8f00a2b7eab.jpg",TV08-SpotV2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9
 https://ucdn.mediaquest.com.ph/bpk-tv/dr_spotv2hd/default/index.mpd
-#EXTINF:80 ch-number="96" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k0tZ78j_s4Rrzf7MXYMMEdTClC75V42a9FWKfXkzbX_Q=s160-c-k-c0x00ffffff-no-rj",TV08-One sports+
+#EXTINF:80  96" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_k0tZ78j_s4Rrzf7MXYMMEdTClC75V42a9FWKfXkzbX_Q=s160-c-k-c0x00ffffff-no-rj",TV08-One sports+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
-#EXTINF:80 ch-number="97" group-title="Stripe" tvg-name="" tvg-id="premiersports2hd.cignal" tvg-logo="https://i.pinimg.com/736x/3f/5c/48/3f5c485db0e46c4a676f32b5d01df714.jpg",TV08-Premier sports 2
+#EXTINF:80  97" group-title="Stripe" tvg-name="" tvg-id="premiersports2hd.cignal" tvg-logo="https://i.pinimg.com/736x/3f/5c/48/3f5c485db0e46c4a676f32b5d01df714.jpg",TV08-Premier sports 2
 http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:80 ch-number="98" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/e2/91/f0/e291f0c9df3ee9f5ad6158191dd4f758.jpg",TV08-Premier Football
+#EXTINF:80  98" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/e2/91/f0/e291f0c9df3ee9f5ad6158191dd4f758.jpg",TV08-Premier Football
 http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001293&contentid=ch00000000000000001293&videoid=ch00000090990000001127&recommendtype=0&userid=1446387897422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OY4RBOUL5WXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:80 ch-number="99" group-title="Stripe" tvg-name="" tvg-id="cgnl_nba.cignal" tvg-logo="https://i.pinimg.com/736x/64/e2/5d/64e25d5a0bc2c44c6d9a86fb93276a5e.jpg",TV08-NBA TV Philippines
+#EXTINF:80  99" group-title="Stripe" tvg-name="" tvg-id="cgnl_nba.cignal" tvg-logo="https://i.pinimg.com/736x/64/e2/5d/64e25d5a0bc2c44c6d9a86fb93276a5e.jpg",TV08-NBA TV Philippines
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
-#EXTINF:80 ch-number="99" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Q5VrjIiAw8tiDOyw60o-RkplD7DKg2e3czceOz01meMawpnstUCPx60_57r8lhxXAt-QXs2Xv7o=s160-c-k-c0x00ffffff-no-rj",TV08-TSN1
+#EXTINF:80  99" group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Q5VrjIiAw8tiDOyw60o-RkplD7DKg2e3czceOz01meMawpnstUCPx60_57r8lhxXAt-QXs2Xv7o=s160-c-k-c0x00ffffff-no-rj",TV08-TSN1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
@@ -291,59 +291,59 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/6
 Vanilla
 #EXTINF:-9 group-logo="https://i.pinimg.com/736x/25/67/66/256766273b78e1f3d61b4092154a25fc.jpg"
 
-#EXTINF:90 ch-number="100" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lou2Z2EYLn7dA26_3bHgcGMLVxt5BunoxUAMMVKu_MmIU=s160-c-k-c0x00ffffff-no-rj",TV09-TV maria video backup
+#EXTINF:90  100" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lou2Z2EYLn7dA26_3bHgcGMLVxt5BunoxUAMMVKu_MmIU=s160-c-k-c0x00ffffff-no-rj",TV09-TV maria video backup
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74
 https://ucdn.mediaquest.com.ph/bpk-tv/tvmaria_prd/default/index.mpd
-#EXTINF:90 ch-number="101" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/DA7JzFxg3ER1CWw-9kZegdnfJAdyQZwlyKuxOBDbbbzr0fo3x2AZ6bm2vHJ_s1mtlsqYVjWebA=s160-c-k-c0x00ffffff-no-rj",TV09-Radio maria audio backup
+#EXTINF:90  101" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/DA7JzFxg3ER1CWw-9kZegdnfJAdyQZwlyKuxOBDbbbzr0fo3x2AZ6bm2vHJ_s1mtlsqYVjWebA=s160-c-k-c0x00ffffff-no-rj",TV09-Radio maria audio backup
 http://136.239.173.26:6610/001/2/ch00000090990000001327/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoMJQgjeNgI0lKcIWq2Qc67ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001815&contentid=ch00000000000000001815&videoid=ch00000090990000001327&recommendtype=0&userid=1715152829702&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4UH5RFC56HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:90 ch-number="102" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/aXMeNbOffojVIm0uqTNEUMzmHtA5YxiLzzuj7gAwbuVdsIcv1jx5tkUfMWEEMte4eKT1hasUbJY=s160-c-k-c0x00ffffff-no-rj",TV09-EWTN
+#EXTINF:90  102" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/aXMeNbOffojVIm0uqTNEUMzmHtA5YxiLzzuj7gAwbuVdsIcv1jx5tkUfMWEEMte4eKT1hasUbJY=s160-c-k-c0x00ffffff-no-rj",TV09-EWTN
 http://136.239.158.18:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Brqe%2B6z8S0P4H4d709E7gynytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1130713546686&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGMTXNDRQLDXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:90 ch-number="103" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/AfPQUefmXGaTZ4xMhbYf5jc6g9fa6fMarmgFST7arKnHYevaKxo032YNgjwkG38h9m184uvYSdk=s160-c-k-c0x00ffffff-no-rj",TV09-TBN Asia
+#EXTINF:90  103" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/AfPQUefmXGaTZ4xMhbYf5jc6g9fa6fMarmgFST7arKnHYevaKxo032YNgjwkG38h9m184uvYSdk=s160-c-k-c0x00ffffff-no-rj",TV09-TBN Asia
 http://136.239.158.30:6610/001/2/ch00000090990000001147/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br1gDY5x7IZ%2FDqQTvxeS3W1ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001317&contentid=ch00000000000000001317&videoid=ch00000090990000001147&recommendtype=0&userid=1315480960661&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=IK7JAFC7DFXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:90 ch-number="104" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDyHyY9rwLsEIr_Rl0QrUTIup5ncwvIK_lK2GYjuHlgg=s160-c-k-c0x00ffffff-no-rj",TV09-IBN
+#EXTINF:90  104" group-title="Vanilla" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDyHyY9rwLsEIr_Rl0QrUTIup5ncwvIK_lK2GYjuHlgg=s160-c-k-c0x00ffffff-no-rj",TV09-IBN
 https://t.freetv.fun/live/ibn-tv.m3u8
 
 Mice Salt
 #EXTINF:-10 group-logo="https://i.pinimg.com/736x/ad/2b/c4/ad2bc4e0aac7a6f3d3d137a33053fe6a.jpg"
 
-#EXTINF:100 ch-number="105" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/28/5c/fa/285cfa21e32e7d5f04f78f53932f660e.jpg",TV10-PiLive 1
+#EXTINF:100  105" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/28/5c/fa/285cfa21e32e7d5f04f78f53932f660e.jpg",TV10-PiLive 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi1/default/index.mpd
-#EXTINF:100 ch-number="106" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/17/4c/6e/174c6ed3d35171aefdf474ad7a7ac3b2.jpg",TV10-PiLive 2
+#EXTINF:100  106" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/17/4c/6e/174c6ed3d35171aefdf474ad7a7ac3b2.jpg",TV10-PiLive 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5a8f3917d424e809b166f3c2a7d9045:6a7f2a17bad0a84674108234403d5fa0
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi2/default/index.mpd
-#EXTINF:100 ch-number="107" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/e8/22/c6/e822c6c5848144b9fd4d7275c7a71278.jpg",TV10- PiLive 3
+#EXTINF:100  107" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/e8/22/c6/e822c6c5848144b9fd4d7275c7a71278.jpg",TV10- PiLive 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2f8d6917a354e60b2196d3c5a8f9042:2f593fbabad7a9f968c9fec691d59806
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi3/default/index.mpd
-#EXTINF:100 ch-number="108" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/6f/de/486fde6a6b75692030f2a3032fab6dbf.jpg",TV10-PiLive 4
+#EXTINF:100  108" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/6f/de/486fde6a6b75692030f2a3032fab6dbf.jpg",TV10-PiLive 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9a4d6316c854b008f175d3a7e2c9048:d7e06c12d35cfd2e13d8f3d3094941a3
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi4/default/index.mpd
-#EXTINF:100 ch-number="109" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/22/78/7d/22787d5fbfe08d1a31c964d509def4ca.jpg",TV10-PiLive 5
+#EXTINF:100  109" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/22/78/7d/22787d5fbfe08d1a31c964d509def4ca.jpg",TV10-PiLive 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4f7c8219d624e30a9156c3a5d7f2048:60391d7d3bb726a4a95e66c4c0af219d
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi5/default/index.mpd
-#EXTINF:100 ch-number="110" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/cd/9a/dc/cd9adcd6e8c90dd635e2558407f94082.jpg",TV10-PiLive 6
+#EXTINF:100  110" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/cd/9a/dc/cd9adcd6e8c90dd635e2558407f94082.jpg",TV10-PiLive 6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi6/default/index.mpd
-#EXTINF:100 ch-number="111" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/36/f7/b3/36f7b316c98c3293eb510b175703fb5d.jpg",TV10-PiLive 7
+#EXTINF:100  111" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/36/f7/b3/36f7b316c98c3293eb510b175703fb5d.jpg",TV10-PiLive 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi7/default/index.mpd
-#EXTINF:100 ch-number="112" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/66/74/33/66743395654a3925aa1248a7037d6006.jpg",TV10-PiLive 8
+#EXTINF:100  112" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/66/74/33/66743395654a3925aa1248a7037d6006.jpg",TV10-PiLive 8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi8/default/index.mpd
-#EXTINF:100 ch-number="113" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/88/aa/47/88aa47a4b9f73cd6784a0298be80368e.jpg",TV10-PiLive 9
+#EXTINF:100  113" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/88/aa/47/88aa47a4b9f73cd6784a0298be80368e.jpg",TV10-PiLive 9
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi9/default/index.mpd
-#EXTINF:100 ch-number="114" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/98/84/f8/9884f880ea0a0ab3319365b4a7f24063.jpg",TV10-PiLive 10
+#EXTINF:100  114" group-title="Mice Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/98/84/f8/9884f880ea0a0ab3319365b4a7f24063.jpg",TV10-PiLive 10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
@@ -351,25 +351,25 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
 Kiwi
 #EXTINF:-11 group-logo="https://i.pinimg.com/736x/33/87/23/338723e298ae71d8340b85cfbf2664b6.jpg"
 
-#EXTINF:110 ch-number="115" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/9a/0f/35/9a0f350bf6a9e5855a30e4e69a6aeae9.jpg",TV11-My bespren emman
+#EXTINF:110  115" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/9a/0f/35/9a0f350bf6a9e5855a30e4e69a6aeae9.jpg",TV11-My bespren emman
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://abslive.akamaized.net/dash/live/2027618/mybesprenemman/manifest.mpd
-#EXTINF:110 ch-number="115" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/be/8a/48be8a818a6dbbd8b6b1034451643321.jpg",TV11-A secret in prague
+#EXTINF:110  115" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/be/8a/48be8a818a6dbbd8b6b1034451643321.jpg",TV11-A secret in prague
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://abslive.akamaized.net/dash/live/2027618/asecretinprague/manifest.mpd
-#EXTINF:110 ch-number="116" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d7/06/b1/d706b1526f46302fa5be45aad63b74be.jpg",TV11-The Healing Eucharist
+#EXTINF:110  116" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d7/06/b1/d706b1526f46302fa5be45aad63b74be.jpg",TV11-The Healing Eucharist
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b84ec93eb33c48e58718e99cd4096c15:9e3a9aee29cbd0375e02c55e0b7b5945
 https://abslive.akamaized.net/dash/live/2027618/healingeucharist3/manifest.mpd
-#EXTINF:110 ch-number="117" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/05/62/49/056249716e9580a3d3aca531920d5d45.jpg",TV11-Everybody sing
+#EXTINF:110  117" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/05/62/49/056249716e9580a3d3aca531920d5d45.jpg",TV11-Everybody sing
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
 https://abslive.akamaized.net/dash/live/2027618/everybodysing/manifest.mpd
-#EXTINF:110 ch-number="117" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="",TV11-OSBL Kapamilya channel
+#EXTINF:110  117" group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="",TV11-OSBL Kapamilya channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
@@ -377,72 +377,72 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 GF of Ho Salt
 #EXTINF:-12 group-logo="https://i.pinimg.com/736x/10/8a/54/108a54ea594af460a90ff8338c848ff6.jpg"
 
-#EXTINF:120 ch-number="118" group-title="GF of Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="https://i.pinimg.com/736x/0e/5e/4d/0e5e4d4ccef3660132f3581308fc994b.jpg",TV12-Dreamworks (Tagalized)
+#EXTINF:120  118" group-title="GF of Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="https://i.pinimg.com/736x/0e/5e/4d/0e5e4d4ccef3660132f3581308fc994b.jpg",TV12-Dreamworks (Tagalized)
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
-#EXTINF:120 ch-number="119" group-title="GF of Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="https://i.pinimg.com/1200x/20/bb/46/20bb46b4c206c7a78822999aa9367501.jpg",TV12-Dreamworks
+#EXTINF:120  119" group-title="GF of Ho Salt" tvg-name="" tvg-id="cg_dreamworktag.cignal" tvg-logo="https://i.pinimg.com/1200x/20/bb/46/20bb46b4c206c7a78822999aa9367501.jpg",TV12-Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworks_hd1/default/index.mpd
-#EXTINF:120 ch-number="120" group-title="GF of Ho Salt" tvg-name="" tvg-id="cartoonnetworkhd.cignal" tvg-logo="https://yt3.googleusercontent.com/Te17F6ihWtmKLAV5Ir4Kauw8f7DKFn50aT43b7NEG4b42n0XjpisoywM4Ej8IuxfbXFSNlgk=s160-c-k-c0x00ffffff-no-rj",TV12-Cartoon Network
+#EXTINF:120  120" group-title="GF of Ho Salt" tvg-name="" tvg-id="cartoonnetworkhd.cignal" tvg-logo="https://yt3.googleusercontent.com/Te17F6ihWtmKLAV5Ir4Kauw8f7DKFn50aT43b7NEG4b42n0XjpisoywM4Ej8IuxfbXFSNlgk=s160-c-k-c0x00ffffff-no-rj",TV12-Cartoon Network
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-#EXTINF:120 ch-number="121" group-title="GF of Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Mle8CiTSmWUF4AiXNeu2yChK8OMUIlck93I8YDfzi2YI_bjovWhWy0ahzZxhjpHwUqsPv6aS1g=s160-c-k-c0x00ffffff-no-rj",TV12-Cartoonito
+#EXTINF:120  121" group-title="GF of Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/Mle8CiTSmWUF4AiXNeu2yChK8OMUIlck93I8YDfzi2YI_bjovWhWy0ahzZxhjpHwUqsPv6aS1g=s160-c-k-c0x00ffffff-no-rj",TV12-Cartoonito
 http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoZQDeIq8A03ROpfeWN75MYytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001238&contentid=ch00000000000000001238&videoid=ch00000090990000001125&recommendtype=0&userid=1642489849443&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9X3U5ZPDLQVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:120 ch-number="122" group-title="GF of Ho Salt" tvg-name="" tvg-id="dr_nickjr.cignal" tvg-logo="https://yt3.googleusercontent.com/5Oe6GeP0RS7YYXlcSqCoBCyzYYtoxSgmN0K_FXQTBOY9tutzr5G1mXjfSmi76YAE3Q8WZXNByQ=s160-c-k-c0x00ffffff-no-rj",TV12-Nick jr
+#EXTINF:120  122" group-title="GF of Ho Salt" tvg-name="" tvg-id="dr_nickjr.cignal" tvg-logo="https://yt3.googleusercontent.com/5Oe6GeP0RS7YYXlcSqCoBCyzYYtoxSgmN0K_FXQTBOY9tutzr5G1mXjfSmi76YAE3Q8WZXNByQ=s160-c-k-c0x00ffffff-no-rj",TV12-Nick jr
 http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001463&contentid=ch00000000000000001463&videoid=ch00000090990000001215&recommendtype=0&userid=1934700137806&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YE9AO4IOJFRXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:100 ch-number="123" group-title="GF of Ho Salt" tvg-name="" tvg-id="animax.click" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kdzalHLX9rgJa_RWRuNuVeF7unDA0E2qnT8FeDm6v9GbM=s160-c-k-c0x00ffffff-no-rj",TV12-AnimaX
+#EXTINF:100  123" group-title="GF of Ho Salt" tvg-name="" tvg-id="animax.click" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kdzalHLX9rgJa_RWRuNuVeF7unDA0E2qnT8FeDm6v9GbM=s160-c-k-c0x00ffffff-no-rj",TV12-AnimaX
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bd30e54571144eb9168a1a7e5915f75:f8cb24e54d555381a326c157b5dfaa59
 http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApUjG9Pouw9ZPY2OjOhRVs72%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001853&contentid=ch00000000000000001853&videoid=ch00000090990000001315&recommendtype=0&userid=1839722974667&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKNK24RBBRLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:120 ch-number="124" group-title="GF of Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg=s160-c-k-c0x00ffffff-no-rj",TV12-Nickelodeon
+#EXTINF:120  124" group-title="GF of Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg=s160-c-k-c0x00ffffff-no-rj",TV12-Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
-#EXTINF:130 ch-number="125" group-title="GF of Ho Salt" tvg-name="" tvg-id="https://static.wikia.nocookie.net/dreamlogos/images/0/08/PBS-KIDS-2022-LOGO-FAN-FIX.svg/revision/latest?cb=20221202043141"" tvg-logo="",TV12-PBS kids
+#EXTINF:130  125" group-title="GF of Ho Salt" tvg-name="" tvg-id="https://static.wikia.nocookie.net/dreamlogos/images/0/08/PBS-KIDS-2022-LOGO-FAN-FIX.svg/revision/latest?cb=20221202043141"" tvg-logo="",TV12-PBS kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 Ho Salt
 #EXTINF:-13 group-logo="https://i.pinimg.com/736x/00/de/6a/00de6aa37dc63d2719a528bfb704b1ed.jpg"
 
-#EXTINF:130 ch-number="126" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj",TV13-TLC
+#EXTINF:130  126" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/7uTWS1ZIhWMlKkvEKCCdfhAG9gf9PmkZ8RTz-6Zxmxlzfr0dN6uM6iaoZWNHz3_AQ0AggW3z5w=s160-c-k-c0x00ffffff-no-rj",TV13-TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
-#EXTINF:130 ch-number="127" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/23/25/c6/2325c6e2978fedcf064d0195083ca9ef.jpg",TV13-Xingkong
+#EXTINF:130  127" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/23/25/c6/2325c6e2978fedcf064d0195083ca9ef.jpg",TV13-Xingkong
 http://136.239.173.3:6610/001/2/ch00000090990000001337/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpMjcsBWP9w%2FYVgaofn83OeytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001828&contentid=ch00000000000000001828&videoid=ch00000090990000001337&recommendtype=0&userid=1534004098099&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6OJMVZ8AUZQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:130 ch-number="128" group-title="Ho Salt" tvg-name="" tvg-id="Love.Nature.my" tvg-logo="https://yt3.googleusercontent.com/rvwRw4-NR4Td4LOj0tvIIv9a8kQusEF8Jihy_O05tufympeoe4Zz1rmjoUxcP_asutnBmRUe1Ko=s160-c-k-c0x00ffffff-no-rj",TV13-Love Nature
+#EXTINF:130  128" group-title="Ho Salt" tvg-name="" tvg-id="Love.Nature.my" tvg-logo="https://yt3.googleusercontent.com/rvwRw4-NR4Td4LOj0tvIIv9a8kQusEF8Jihy_O05tufympeoe4Zz1rmjoUxcP_asutnBmRUe1Ko=s160-c-k-c0x00ffffff-no-rj",TV13-Love Nature
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"d1plTAYQgRrQIjKaaIhN4Q","kid":"FovYFUaGOf5FKLS/AUHzEA"}],"type":"temporary"}
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_ott.mpd
-#EXTINF:130 ch-number="129" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/4XSnYZMmCy9FBwbKwbgaqaDRcgLyoE432GLKWFgfXfCkZ34CwYi4Q1PQJVsMgNkEFNCWbXNxLQ=s160-c-k-c0x00ffffff-no-rj",TV13-BBC Lifestyle
+#EXTINF:130  129" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://yt3.googleusercontent.com/4XSnYZMmCy9FBwbKwbgaqaDRcgLyoE432GLKWFgfXfCkZ34CwYi4Q1PQJVsMgNkEFNCWbXNxLQ=s160-c-k-c0x00ffffff-no-rj",TV13-BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
-#EXTINF:130 ch-number="130" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image45396170672.jpg",TV13-Star TV Philippines
+#EXTINF:130  130" group-title="Ho Salt" tvg-name="" tvg-id="" tvg-logo="https://www.coolstreaming.us/img/ch/image45396170672.jpg",TV13-Star TV Philippines
 https://sdtvnetworkph.itunerworldwide.workers.dev/master.live.m3u8
-#EXTINF:130 ch-number="131" group-title="Ho Salt" tvg-name="" tvg-id="Discovery.Channel.HD.my" tvg-logo="",TV13-Discovery channel
+#EXTINF:130  131" group-title="Ho Salt" tvg-name="" tvg-id="Discovery.Channel.HD.my" tvg-logo="",TV13-Discovery channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
-#EXTINF:130 ch-number="132" group-title="Ho Salt" tvg-name="" tvg-id="Discovery.Asia.HD.my" tvg-logo="",TV13-Discovery asia
+#EXTINF:130  132" group-title="Ho Salt" tvg-name="" tvg-id="Discovery.Asia.HD.my" tvg-logo="",TV13-Discovery asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:130 ch-number="133" group-title="Ho Salt" tvg-name="" tvg-id="globaltrekker.cignal" tvg-logo="https://i.pinimg.com/736x/27/d1/ff/27d1ff29170cf55a0c79937afe446717.jpg",TV13-Global trekker
+#EXTINF:130  133" group-title="Ho Salt" tvg-name="" tvg-id="globaltrekker.cignal" tvg-logo="https://i.pinimg.com/736x/27/d1/ff/27d1ff29170cf55a0c79937afe446717.jpg",TV13-Global trekker
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69
 https://ucdn.mediaquest.com.ph/bpk-tv/globaltrekker/default/index.mpd
-#EXTINF:130 ch-number="134" group-title="Ho Salt" tvg-name="" tvg-id="hits_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lindIlqiDrP2cfBhaeAsrxcjbVBe5v6C3uiUZrjPC_6A=s160-c-k-c0x00ffffff-no-rj",TV13-Hits
+#EXTINF:130  134" group-title="Ho Salt" tvg-name="" tvg-id="hits_hd1.cignal" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lindIlqiDrP2cfBhaeAsrxcjbVBe5v6C3uiUZrjPC_6A=s160-c-k-c0x00ffffff-no-rj",TV13-Hits
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc
 https://ucdn.mediaquest.com.ph/bpk-tv/hits_hd1/default/index.mpd
-#EXTINF:130 ch-number="135" group-title="Ho Salt" tvg-name="" tvg-id="cg_hitsnow.cignal" tvg-logo="https://i.pinimg.com/736x/cb/72/eb/cb72ebda6b496d8c099eb3db0266e5a1.jpg",TV13-Hits now
+#EXTINF:130  135" group-title="Ho Salt" tvg-name="" tvg-id="cg_hitsnow.cignal" tvg-logo="https://i.pinimg.com/736x/cb/72/eb/cb72ebda6b496d8c099eb3db0266e5a1.jpg",TV13-Hits now
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_hitsnow/default/index.mpd
