@@ -291,11 +291,15 @@ https://ott.djdoolky76.io/api/streams/152/manifest.m3u8?token=eyJhbGciOiJIUzI1Ni
 #EXTINF:80 group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Bein sports
 https://ott.djdoolky76.io/api/streams/106/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4OTgxNjQzNCwiZXhwIjoxNzkwNTUzNTk5fQ.-pflRXOAjFMCj0RvHsTPwtoxW4dIrC3IDRdqTXJ2koU
 #EXTINF:80 group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Bein sports 1
-https://ott.djdoolky76.io/api/streams/159/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4OTgxNjQzNCwiZXhwIjoxNzkwNTUzNTk5fQ.-pflRXOAjFMCj0RvHsTPwtoxW4dIrC3IDRdqTXJ2koU
+https://95.179.168.179/bein1/index.m3u8
 #EXTINF:80 group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Bein sports 2
-https://ott.djdoolky76.io/api/streams/160/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4OTgxNjQzNCwiZXhwIjoxNzkwNTUzNTk5fQ.-pflRXOAjFMCj0RvHsTPwtoxW4dIrC3IDRdqTXJ2koU
+https://95.179.168.179/bein2/index.m3u8
 #EXTINF:80 group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Bein sports 3
-https://ott.djdoolky76.io/api/streams/161/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4OTgxNjQzNCwiZXhwIjoxNzkwNTUzNTk5fQ.-pflRXOAjFMCj0RvHsTPwtoxW4dIrC3IDRdqTXJ2koU
+https://95.179.168.179/bein3/index.m3u8
+#EXTINF:80 group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Bein sports 4
+https://95.179.168.179/bein4/index.m3u8
+#EXTINF:80 group-title="Stripe" tvg-name="" tvg-id="" tvg-logo="",TV08-Bein sports 5
+https://95.179.168.179/bein5/index.m3u8
 
 Vanilla
 #EXTINF:-9 group-logo="https://i.pinimg.com/736x/25/67/66/256766273b78e1f3d61b4092154a25fc.jpg"
