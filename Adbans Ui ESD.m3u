@@ -395,24 +395,24 @@ https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
 Kiwi
 #EXTINF:-11 group-logo="https://i.pinimg.com/736x/33/87/23/338723e298ae71d8340b85cfbf2664b6.jpg"
 
-#EXTINF:110  115 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/9a/0f/35/9a0f350bf6a9e5855a30e4e69a6aeae9.jpg",TV11-My bespren emman
+#EXTINF:110  115 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/1200x/60/65/a5/6065a5eefd4cf079dd6bf174c2dbe629.jpg",TV11-Maharlika Pilipinas 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
+#KODIPROP:inputstream.adaptive.license_key=e1786d1030e54be3a5a3047f28977627:3b6328acec83b1d0a2a5ae7f1c0ff950
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://abslive.akamaized.net/dash/live/2027618/mybesprenemman/manifest.mpd
-#EXTINF:110  115 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/48/be/8a/48be8a818a6dbbd8b6b1034451643321.jpg",TV11-A secret in prague
+https://abslive.akamaized.net/dash/live/2027618/maharlikapilipinaspickleballtourcourt3/manifest.mpd
+#EXTINF:110  115 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/1200x/60/65/a5/6065a5eefd4cf079dd6bf174c2dbe629.jpg",TV11-Maharlika Pilipinas 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
+#KODIPROP:inputstream.adaptive.license_key=073fea52dfb14f1689aef4d6bdd03923:d3e962d45956b27855f1ce174af17390
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://abslive.akamaized.net/dash/live/2027618/asecretinprague/manifest.mpd
-#EXTINF:110  116 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/d7/06/b1/d706b1526f46302fa5be45aad63b74be.jpg",TV11-The Healing Eucharist
+https://absp-live.akamaized.net/dash/live/2099522/maharlikapilipinaspickleballtourcourt2/manifest.mpd
+#EXTINF:110  116 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/1200x/60/65/a5/6065a5eefd4cf079dd6bf174c2dbe629.jpg",TV11-Maharlika Pilipinas Championship
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b84ec93eb33c48e58718e99cd4096c15:9e3a9aee29cbd0375e02c55e0b7b5945
-https://abslive.akamaized.net/dash/live/2027618/healingeucharist3/manifest.mpd
-#EXTINF:110  117 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/05/62/49/056249716e9580a3d3aca531920d5d45.jpg",TV11-Everybody sing
+#KODIPROP:inputstream.adaptive.license_key=a7887a0cd39c4ae9b8ef27aded851a51:50faf21da17228d8c5957d786000ff68
+https://absp-live.akamaized.net/dash/live/2099522/maharlikapilipinaspickleballtourchampionshipcourt/manifest.mpd
+#EXTINF:110  117 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="https://i.pinimg.com/736x/ef/29/28/ef2928b414d7ef0434cd998c157436b5.jpg",TV11-Asap XP
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=83c87c07deed4bc8899db5361b74aa57:57c044bcd1acd352dcdb7b19cda27569
-https://abslive.akamaized.net/dash/live/2027618/everybodysing/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=6379f85c61d84b5db3be564bf59f4e13:d9a1f47f7a58f5a9598a452081155df4
+https://absp-live.akamaized.net/dash/live/2099522/asap/manifest.mpd
 #EXTINF:110  117 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="",TV11-OSBL Kapamilya channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
