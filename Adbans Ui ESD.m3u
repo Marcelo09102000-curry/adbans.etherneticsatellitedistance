@@ -416,7 +416,7 @@ https://abslive.akamaized.net/dash/live/2027618/everybodysing/manifest.mpd
 #EXTINF:110  117 group-title="Kiwi" tvg-name="" tvg-id="" tvg-logo="",TV11-OSBL Kapamilya channel
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
 
 GF of Ho Salt
 #EXTINF:-12 group-logo="https://i.pinimg.com/736x/10/8a/54/108a54ea594af460a90ff8338c848ff6.jpg"
